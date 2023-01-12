@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AnkitSinghMehrauk017777
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python and I am switching to  JAVA
-- 💞️ I’m looking to collaborate on web development
+- 💞️ I’m currently learning web development
 - 📫 Through coding
 
 <!---
